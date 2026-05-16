@@ -3,8 +3,10 @@
 
 # C Programming Activity
 Name: ROHIT SINGH
+
 USN: 1JS25CI069
 Semester/Section: 2ND-SEMESTER/C2
+
 Program Title: Simple Addition of Two Numbers
 
 
