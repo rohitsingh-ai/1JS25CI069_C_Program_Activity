@@ -1,12 +1,15 @@
 #include <stdio.h>
-#include <math.h>
-void main()
+#include<math.h>
+int main()
 {
-float x1, y1, x2, y2, distance;
-printf("Enter x1 and y1 (coordinates of the first point): ");
-scanf("%f %f", &x1, &y1);
-printf("Enter x2 and y2 (coordinates of the second point): ");
-scanf("%f %f", &x2, &y2);
-distance = sqrt((x2 - x1)*(x2 - x1) + (y2 - y1)*(y2 - y1));
-printf("The straight-line distance between the two points is: %.2f\n", distance);
+printf("Name: ROHIT SINGH");
+printf("USN: 1JS25CI069\n");
+printf("Program: Simple Addition of Two Numbers\n");
+printf("----------------------------------------\n");
+int a, b, sum;
+printf("Enter two numbers:");
+scanf("%d %d&quot;, &amp;a, &amp;b);
+sum = a + b;
+printf("Sum = %d\n", sum);
+return 0;
 }
