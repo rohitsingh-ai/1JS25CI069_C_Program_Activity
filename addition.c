@@ -2,7 +2,7 @@
 #include<math.h>
 int main()
 {
-printf("Name: ROHIT SINGH");
+printf("Name: ROHIT SINGH\n");
 printf("USN: 1JS25CI069\n");
 printf("Program: Simple Addition of Two Numbers\n");
 printf("----------------------------------------\n");
